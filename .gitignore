@@ -1,0 +1,11 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Your private course files and the local database
+data/
+chroma_db/
